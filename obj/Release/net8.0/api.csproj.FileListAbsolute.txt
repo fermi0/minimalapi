@@ -30,3 +30,4 @@ C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\refint\api.dll
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\api.pdb
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\api.genruntimeconfig.cache
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\ref\api.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\api.sourcelink.json
