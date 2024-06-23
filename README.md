@@ -19,11 +19,8 @@ Since this project uses InMemoryDatabase, the datebase is empty in each use. In 
 type the following in the field:
 
 {
-
 "title": <"task to to">,
-
 "isComplete":
-
 }
 
 The data is formatted in json, so replace title's value to a title of the todo task you want,and set the boolean of the isComplete to true or false, based on the task is completed or not. You can create as many tasks as you want by editing the title and isComplete.
