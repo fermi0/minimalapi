@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKqi6hXegVkunEQME4zth/gAAAAACAAAAAAAQZgAAAAEAACAAAADlWaaTTjQyuFCrlgRmiDowfIhzeYBn4iJLDvp/kCSzLAAAAAAOgAAAAAIAACAAAAD3fw9yxHgCfRjWS3JzOQFCWsRDUnjqEGAiukGAxG8ozBAAAAAFb+Q7nFXSaYHM/BRhKo6dQAAAAAQmOxY6FZYMf32TQIr3zcfyGIZBLkFzPyllotynRLY+YhH4ucyFrugH/oW0Tll0XweDZxAtXKku/cHxMTbzqnI=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://horizon/D:\Ftpserver</_PublishTargetUrl>
+    <History>True|2024-06-23T05:09:08.7993428Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="api.deps.json">
+      <publishTime>06/23/2024 10:53:51</publishTime>
+    </File>
+    <File Include="api.dll">
+      <publishTime>06/23/2024 10:53:50</publishTime>
+    </File>
+    <File Include="api.exe">
+      <publishTime>06/23/2024 10:53:50</publishTime>
+    </File>
+    <File Include="api.pdb">
+      <publishTime>06/23/2024 10:53:50</publishTime>
+    </File>
+    <File Include="api.runtimeconfig.json">
+      <publishTime>06/23/2024 08:09:00</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/19/2024 17:32:44</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/19/2024 17:32:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll">
+      <publishTime>05/20/2024 10:10:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>05/20/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>05/20/2024 05:40:04</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.InMemory.dll">
+      <publishTime>05/20/2024 05:40:08</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>05/20/2024 05:40:20</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/23/2024 10:53:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

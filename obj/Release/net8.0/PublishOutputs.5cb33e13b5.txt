@@ -1,0 +1,12 @@
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\api.exe
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\api.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\api.deps.json
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\api.runtimeconfig.json
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\api.pdb
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll

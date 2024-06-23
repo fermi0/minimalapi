@@ -1,0 +1,40 @@
+﻿@api_HostAddress = https://localhost:7187
+
+POST {{api_HostAddress}}/items
+Content-Type: application/json
+
+{
+  "title": "Talk 10 minutes with sulav",
+  "isComplete": true
+}
+
+###
+
+GET {{api_HostAddress}}/items
+
+###
+
+GET {{api_HostAddress}}/items/1
+
+###
+
+GET {{api_HostAddress}}/items/completed
+
+###
+
+GET {{api_HostAddress}}/items/incomplete
+
+###
+
+PUT {{api_HostAddress}}/items/1
+Content-Type: application/json 
+{
+  "title":"talk to sulav",
+  "isComplete":false
+}
+
+###
+
+DELETE {{api_HostAddress}}/items/1
+
+###
