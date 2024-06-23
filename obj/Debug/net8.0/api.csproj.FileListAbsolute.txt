@@ -30,3 +30,4 @@ C:\Users\mobsi\OneDrive\Documents\dotnet\api\bin\Debug\net8.0\Microsoft.EntityFr
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
 C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Debug\net8.0\api.csproj.Up2Date
+C:\Users\mobsi\OneDrive\Documents\dotnet\api\obj\Debug\net8.0\api.sourcelink.json
