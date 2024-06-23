@@ -17,10 +17,10 @@ From Nuget manager Add those packages to the project, and start the application.
 Since this project uses InMemoryDatabase, the datebase is empty in each use. In postman to send a HTTP POST request, go to the body tab and select raw. Since the content-type is set to json, select json from the dropdown menu.
 
 type the following in the field:
-
 {
 
 "title": <"task to to">,
+
 "isComplete":
 
 }
