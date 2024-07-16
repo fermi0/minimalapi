@@ -1,4 +1,4 @@
-This is a practice project to make a minimal API using .NET framework.
+This is a practice project to make a minimal API using .NET core.
 
 To run this project, open the project in Visual Studio or VSCode.
 
